@@ -145,12 +145,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="src\log.cpp" />
-    <ClCompile Include="src\math.cpp" />
     <ClCompile Include="src\rock_paper_scissors.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\log.h" />
-    <ClInclude Include="include\math.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

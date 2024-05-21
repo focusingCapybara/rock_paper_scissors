@@ -1,5 +1,4 @@
 #include "../include/log.h"
-#include "../include/math.h"
 #include <iostream>
 #include <cstdlib> // Has a function called Rand() that generates a random int
 #include <ctime>
